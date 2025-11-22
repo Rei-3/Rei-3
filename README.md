@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 let's collab and build things together 🤝  <br>🌱 I’m currently learning Docker<br>💬 Ask me about tech stuff<br>⚡ I love to cook (let me cook). My favorite TV-show is Evangelion.
+👯 let's collab and build things together 🤝  <br>🌱 I’m currently learning k8s<br>💬 Ask me about tech stuff<br>⚡ I love to cook (let me cook). My favorite TV-show is Evangelion.
 [![](https://visitcount.itsvg.in/api?id=rei-3&icon=10&color=4)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
